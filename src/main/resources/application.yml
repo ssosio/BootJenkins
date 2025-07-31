@@ -16,6 +16,6 @@ spring:
    url: jdbc:mysql://localhost:3306/chan
    username: catdog
    password: '0321'
-#mybatis
+
 
 
