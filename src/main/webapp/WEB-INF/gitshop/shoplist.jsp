@@ -23,5 +23,8 @@
 <h1 class="alert alert-info">진짜된다 훅스</h1>
 <img alt="" src="../4.jpg">
 <hr>
+<img alt="" src="../5.jpg">
+<h1>안되면 죽는다</h1>
+<hr>
 </body>
 </html>
